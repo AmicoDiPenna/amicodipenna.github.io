@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Search Result on AmicoDiPenna</title>
-    <link>https://amicodipenna.github.io/search.html</link>
+    <link>https://amicodipenna.it/search.html</link>
     <description>Recent content in Search Result on AmicoDiPenna</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="https://amicodipenna.github.io/search/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language><atom:link href="https://amicodipenna.it/search/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
