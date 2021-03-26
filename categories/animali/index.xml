@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animali on AmicoDiPenna</title>
+    <link>https://amicodipenna.it/categories/animali.html</link>
+    <description>Recent content in Animali on AmicoDiPenna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 26 Mar 2020 12:00:00 +0000</lastBuildDate><atom:link href="https://amicodipenna.it/categories/animali/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I cani sono migliori di noi</title>
+      <link>https://amicodipenna.it/i_cani_sono_migliori_di_noi.html</link>
+      <pubDate>Thu, 26 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://amicodipenna.it/i_cani_sono_migliori_di_noi.html</guid>
+      <description>Noi esseri umani civilizzati pretendiamo tante cose. Sognano una bella casa, una bella famiglia, una macchina sportiva e una vita al massimo.</description>
+    </item>
+    
+  </channel>
+</rss>
