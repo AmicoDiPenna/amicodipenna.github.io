@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Musica on AmicoDiPenna</title>
+    <link>https://amicodipenna.it/categories/musica.html</link>
+    <description>Recent content in Musica on AmicoDiPenna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 27 Mar 2020 12:00:00 +0000</lastBuildDate><atom:link href="https://amicodipenna.it/categories/musica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autotune, aiuto o ostacolo?</title>
+      <link>https://amicodipenna.it/autotune.html</link>
+      <pubDate>Fri, 27 Mar 2020 12:00:00 +0000</pubDate>
+      
+      <guid>https://amicodipenna.it/autotune.html</guid>
+      <description>Autotune Tanti cantanti ne fanno uso, molti lo elogiano e altrettanti lo disprezzano, ma cos&amp;rsquo;è l&#39; autotune?</description>
+    </item>
+    
+  </channel>
+</rss>
