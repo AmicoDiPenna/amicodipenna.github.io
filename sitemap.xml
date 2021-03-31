@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://amicodipenna.it/</loc>
-    <lastmod>2020-03-27T12:00:00+00:00</lastmod>
+    <loc>https://amicodipenna.it/categories/2021.html</loc>
+    <lastmod>2020-03-31T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amicodipenna.it/autotune.html</loc>
-    <lastmod>2020-03-27T12:00:00+00:00</lastmod>
+    <loc>https://amicodipenna.it/</loc>
+    <lastmod>2020-03-31T12:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://amicodipenna.it/categories.html</loc>
+    <lastmod>2020-03-31T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amicodipenna.it/a_casa.html</loc>
+    <lastmod>2020-03-31T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amicodipenna.it/autotune.html</loc>
     <lastmod>2020-03-27T12:00:00+00:00</lastmod>
   </url>
   
